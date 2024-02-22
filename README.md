@@ -1,2 +1,2 @@
 # papers
-Papers that I've enjoyed reading. 
+A thank you to all the researchers that have advanced the field. 
